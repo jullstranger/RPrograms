@@ -2,6 +2,6 @@
 
 print(1:100)
 
-for (i in 1:100) print (i)
+for (i in 2:100) print (i)
 
 
